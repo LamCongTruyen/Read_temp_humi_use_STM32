@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32Serial", "STM32Serial.csproj", "{456EFB11-CBA9-4B1E-BDC0-D01BCDFD861C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456EFB11-CBA9-4B1E-BDC0-D01BCDFD861C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456EFB11-CBA9-4B1E-BDC0-D01BCDFD861C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456EFB11-CBA9-4B1E-BDC0-D01BCDFD861C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456EFB11-CBA9-4B1E-BDC0-D01BCDFD861C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FBCAE2-44B1-471A-B977-EE0FB835D11C}
+	EndGlobalSection
+EndGlobal
